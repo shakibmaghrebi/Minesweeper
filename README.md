@@ -1,5 +1,5 @@
 # Minesweeper
-A simple Minesweeper game that is written by C++ Using [CLUI] (https://github.com/SBU-CE/clui) library
+A simple Minesweeper game that is written by C++ Using [CLUI](https://github.com/SBU-CE/clui) library
 ## Installation
 1. Clone the directory
 2. Install Mingw
